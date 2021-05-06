@@ -16,7 +16,7 @@ Also, suggest a better name! e.g. `@scrumbot`
 
 ### Edge cases
 
-> Not handled yet!
+> Not handled yet!!
 
 - What happens if sprint ends early? (1 week)
   - Find possibilities to obtain the exact sprint duration from JIRA. (can be too much of a hassle!!)
