@@ -1,0 +1,2 @@
+channel_members = {}
+users = []
