@@ -52,3 +52,6 @@ Also, suggest a better name! e.g. `@scrumbot`
 ]
 ```
 
+## Deployment
+
+Feel free to join my Slack workspace and test out the bot in `#test` channel
