@@ -54,4 +54,4 @@ Also, suggest a better name! e.g. `@scrumbot`
 
 ## Deployment
 
-Feel free to join my Slack workspace and test out the bot in `#test` channel
+Feel free to join [my Slack workspace](https://join.slack.com/t/srinjoy-den/shared_invite/zt-132p0r0aa-Ncpih9zWHaKyoFnZLaVxog) and test out the bot in `#test` channel
