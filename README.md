@@ -1,6 +1,6 @@
 # Role Assignment Bot
 
-> A slackbot to deteremine who will be the next iteration manager (or, scrum master, roster)
+> A slackbot to determine who will be the next iteration manager (or, scrum master, roster)
 
 Also, suggest a better name! e.g. `@scrumbot`
 
